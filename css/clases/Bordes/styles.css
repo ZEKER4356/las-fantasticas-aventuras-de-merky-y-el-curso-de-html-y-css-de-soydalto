@@ -1,0 +1,12 @@
+body {
+    background: black;
+}
+
+input {
+    margin: 5px;
+    padding: 7px;
+    background: black;
+    border: none;
+    border-top: 4px solid cyan;
+    color: cyan;
+}

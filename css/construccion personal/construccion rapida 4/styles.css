@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+}
+
+.box-content{
+    box-sizing: content-box;
+    background: orangered;
+    color: wheat;
+    padding: 15px;
+    border: 7px solid red;
+    margin: auto;
+}
+
+.box-borderbox {
+    box-sizing: border-box;
+    background: skyblue;
+    color: blue;
+    padding: 15px;
+    border: 7px solid blue;
+    margin: auto;
+    font-size: 14px;
+}

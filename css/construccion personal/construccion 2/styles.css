@@ -1,0 +1,42 @@
+h1 {
+    font-family: montserrat;
+    text-align: center;
+}
+
+#p-inicio {
+    text-align: center;
+}
+
+h2 {
+    font-family: caacupe;
+    font-size: 35px;
+    letter-spacing: 2px;
+    color: skyblue;
+}
+
+p {
+    font-family: doppio;
+}
+
+
+h3 {
+    font-family: montserrat;
+    color: slateblue;
+}
+
+
+ul {
+    font-family: caacupe;
+    font-size: 14px
+}
+
+li {
+    letter-spacing: 2px;
+}
+
+span {
+    color: darkblue;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-style: italic;
+}
