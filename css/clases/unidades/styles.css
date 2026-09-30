@@ -1,0 +1,27 @@
+div {
+    background: #eee;
+    padding: 20px;
+    font-family: sans-serif;
+    border-left: 7px solid #999;
+    font-size: 20px;
+    width: 70vw;
+    height: 25vh;
+    margin: auto;
+    margin-top: 50px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+span {
+    font-weight: 100;
+    font-size: 20px;
+    color: #999;
+}
+
+p {
+    color: #555;
+    font-size: 0.6em;
+}
