@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    font-size: 15px;
+    background: #aaa;
+}
+
+h1 {
+    width: 350px;
+    text-align: center;
+    background: #a47;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+    font-size: 3em;
+}
+
+p {
+    font-weight: bolder;
+    font-size: 0.7em;
+}
+
+ol {
+    background: #599;
+    width: 200px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+ul {
+    background: #995;
+    width: 200px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
