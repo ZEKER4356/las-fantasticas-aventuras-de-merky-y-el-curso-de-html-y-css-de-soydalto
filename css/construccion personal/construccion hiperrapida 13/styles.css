@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: #622;
+    font-size: 35px;
+    color: #999;
+}
+
+h1 {
+    font-size: 0.9em;
+    text-align: center;
+    width: 400px;
+    border-bottom: 4px solid #d22;
+    background: #a11;
+    margin: 15px 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: #949;
+    box-sizing: border-box;
+    margin: 15px;
+    border-left: 7px solid #fff;
+}
+
+.red {
+    background: #f00;
+    border-color: #f44;
+}
+
+.blue {
+    background: #00f;
+    border-color: #44f;
+}
