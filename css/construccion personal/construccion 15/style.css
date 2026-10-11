@@ -8,7 +8,7 @@ body {
     width: 72%;
     padding: 5px;
     box-sizing: border-box;
-    background: #559;
+    background: linear-gradient(#559, #339);
     font-size: 40px;
     margin: auto;
     margin-top: 15px;
