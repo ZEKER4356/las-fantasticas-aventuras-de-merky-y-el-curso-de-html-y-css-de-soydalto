@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.card {
+    width: 450px;
+    background: linear-gradient(#00DEF7, #0063F7);
+    margin: auto;
+    margin-top: 10%;
+    padding: 15px;
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 5px;
+    border-bottom: 7px solid #00F794;
+    box-shadow: 0 0 15px #000;
+}
+
+.title {
+    font-size: 2em;
+    text-shadow: 0 0 7px #fff;
+}
+
+.status {
+    font-size: 1em;
+    font-weight: 100;
+    color: #f22;
+    background: #522;
+    border-left: 4px solid #f22;
+}
+
+img {
+    width: 250px;
+    border-radius: 25px;
+    filter: drop-shadow(0 0 15px #000);
+}
